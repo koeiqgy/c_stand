@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1567757940 source:c:\app\workspace\codeblock\c_stand\main.c
+	"std.h"
+
+1566528561 source:c:\app\workspace\codeblock\c_stand\files.c
+
+1567758910 source:c:\app\workspace\codeblock\c_stand\digit.c
+	"digit.h"
+
+1567750373 c:\app\workspace\codeblock\c_stand\std.h
+	<stdio.h>
+	<stdlib.h>
+	"bool.h"
+
+1566787666 c:\app\workspace\codeblock\c_stand\bool.h
+
+1566795952 source:c:\app\workspace\codeblock\c_stand\test.c
+	"digit.h"
+
+1567757589 c:\app\workspace\codeblock\c_stand\digit.h
+	"bool.h"
+
+1566795932 c:\app\workspace\codeblock\c_stand\digit.c
+	"digit.h"
+
