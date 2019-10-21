@@ -82,7 +82,7 @@ int main()
     hashTablePtr hPtr=initial_hashTable(N);
     int i=0;
 
-    for(;i<20;i++){
+    for(;i<10;i++){
         insert_hashTable(i,hPtr);
     }
     for_each_hash_table(hPtr);

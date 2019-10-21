@@ -33,8 +33,10 @@ void for_each_hash_table(hashTablePtr hptr)
     hashTableLinkPtr link=hptr->linklist;
     hashTableLinkPtr tmp=link;
     for(;link<tmp+len_;link++){
-        hashLinkDType val=link->data;
-        printf("%d\n",val);
+        if(link->next!=NULL){
+            hashLinkDType val=link->next->data;
+            printf("%d\n",val);
+        }
     }
 }
 
@@ -44,9 +46,7 @@ void insert_hashTable(hashType x,hashTablePtr htable)
     hashTableLinkPtr tableLink= htable->linklist;
     int index=hashMod(x,len);
     tableLink=tableLink+index;
-    printf("%p \n",tableLink);
     while(tableLink->next!=NULL){
-        printf("%p \n",tableLink);
         tableLink=tableLink->next;
     }
     hashTableLinkPtr tableLinkPtr=malloc(sizeof(hashTableLink));

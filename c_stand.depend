@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1571640400 source:c:\app\workspace\codeblock\c_stand\main.c
+1571646042 source:c:\app\workspace\codeblock\c_stand\main.c
 	"arrayList.h"
 	"std.h"
 	"hash.h"
@@ -58,7 +58,7 @@
 
 1571125434 c:\app\workspace\codeblock\c_stand\file.h
 
-1571644033 source:c:\app\workspace\codeblock\c_stand\hash.c
+1571646149 source:c:\app\workspace\codeblock\c_stand\hash.c
 	"hash.h"
 	<stdlib.h>
 
