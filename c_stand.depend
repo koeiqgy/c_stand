@@ -1,25 +1,66 @@
 # depslib dependency file v1.0
-1567757940 source:c:\app\workspace\codeblock\c_stand\main.c
+1571640400 source:c:\app\workspace\codeblock\c_stand\main.c
+	"arrayList.h"
 	"std.h"
+	"hash.h"
 
-1566528561 source:c:\app\workspace\codeblock\c_stand\files.c
+1571127439 source:c:\app\workspace\codeblock\c_stand\files.c
+	"stdlib.h"
+	"stdio.h"
 
-1567758910 source:c:\app\workspace\codeblock\c_stand\digit.c
+1567759847 source:c:\app\workspace\codeblock\c_stand\digit.c
 	"digit.h"
 
-1567750373 c:\app\workspace\codeblock\c_stand\std.h
+1567760262 c:\app\workspace\codeblock\c_stand\std.h
 	<stdio.h>
 	<stdlib.h>
 	"bool.h"
 
 1566787666 c:\app\workspace\codeblock\c_stand\bool.h
 
-1566795952 source:c:\app\workspace\codeblock\c_stand\test.c
+1570757791 source:c:\app\workspace\codeblock\c_stand\test.c
 	"digit.h"
 
-1567757589 c:\app\workspace\codeblock\c_stand\digit.h
+1570684712 c:\app\workspace\codeblock\c_stand\digit.h
 	"bool.h"
 
 1566795932 c:\app\workspace\codeblock\c_stand\digit.c
 	"digit.h"
+
+1571360493 source:c:\app\workspace\codeblock\c_stand\arraylist.c
+	"arrayList.h"
+
+1571279488 c:\app\workspace\codeblock\c_stand\arraylist.h
+
+1570685694 source:c:\app\workspace\codeblock\c_stand\common.c
+
+1570685668 source:c:\app\workspace\codeblock\c_stand\test1.c
+	"common.h"
+	"test1.h"
+
+1570685689 c:\app\workspace\codeblock\c_stand\common.h
+
+1570757924 c:\app\workspace\codeblock\c_stand\test1.h
+	"head.h"
+
+1570692935 source:c:\app\workspace\codeblock\c_stand\test2.c
+	"common.h"
+
+1570758071 c:\app\workspace\codeblock\c_stand\test2.h
+	"head.h"
+
+1570689005 c:\app\workspace\codeblock\c_stand\head.h
+
+1571273473 source:c:\app\workspace\codeblock\c_stand\struct.c
+	"stdio.h"
+
+1570759722 c:\app\workspace\codeblock\c_stand\struct.h
+
+1571125434 c:\app\workspace\codeblock\c_stand\file.h
+
+1571644033 source:c:\app\workspace\codeblock\c_stand\hash.c
+	"hash.h"
+	<stdlib.h>
+
+1571640140 c:\app\workspace\codeblock\c_stand\hash.h
 

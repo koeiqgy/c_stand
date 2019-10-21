@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="arrayList.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arrayList.h" />
 		<Unit filename="bool.h" />
 		<Unit filename="digit.c">
 			<Option compilerVar="CC" />
@@ -39,10 +43,17 @@
 		<Unit filename="files.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="hash.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="hash.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="std.h" />
+		<Unit filename="struct.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="test.c">
 			<Option compilerVar="CC" />
 		</Unit>

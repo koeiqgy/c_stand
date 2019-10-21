@@ -1,8 +1,8 @@
-#include "bool.h"
 /***
  digit std lib
 ***/
 #ifndef DIGIT_H_INCLUDED
+#include "bool.h"
 #define DIGIT_H_INCLUDED
 
 /***

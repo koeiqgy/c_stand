@@ -28,6 +28,7 @@ int dig_is_even(int num){
     }
     return 0;
 }
+
 /***
   return average
 ***/
